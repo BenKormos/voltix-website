@@ -1,6 +1,6 @@
 ## 🛠️ Built With
 
-- **PYTHON** – Structured semantic content.
+- **PYTHON** – Python Main Server.
 - **HTML5** – Structured semantic content.
 - **CSS3** – Custom styling, flexbox layouts, hover animations, and dark mode aesthetics.
 
